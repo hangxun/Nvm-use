@@ -319,7 +319,5 @@ npm update [--global|-g] [name]
 npm run [task]
 npm cache [clean]
 ```
-
-
 *****
 
