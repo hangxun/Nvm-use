@@ -29,6 +29,7 @@ nvm 安装 node.js
   + PowerShell中是通过`dir env:[name]`命令
 
 5. 下载并切换node 的版本
+![nvm-help](./../images/nvm-heip.PNG)
   + $ nvm help 查看nvm的命令列表；
   + $ nvm list [<availab></availab>le] 查看远端服务器中，nodejs的可用版本列表；
   + $ nvm install <version> [arch] 安装相应的node版本 32bit || 64bit
