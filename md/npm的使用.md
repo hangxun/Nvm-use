@@ -169,3 +169,6 @@ npm cache [clean]
 ```
 *****
 
+## 常用的npm库
+
+1. tsd 智能提示；
