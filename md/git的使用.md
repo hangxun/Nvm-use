@@ -57,6 +57,9 @@ git push origin master
 - $ git get-file -t 当自己拿到一个哈希值时 用于查看哈希值指代的对象类型
 - $ git get-file -p 看哈希值指向对象内的具体内容
 
+8. checkout使用详解
+[checkout使用详解](http://www.cnblogs.com/hutaoer/archive/2013/05/07/git_checkout.html?utm_source=tuicool&utm_medium=referral)
+
 ## git的相关概念
 
 ![git工作结构图](./../imags/git工作结构图.PNG)
