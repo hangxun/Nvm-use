@@ -6,3 +6,6 @@
     桌面右键-- 图形选项 -- 快捷键 -- 禁用
 2. ctrl + space 强制智能提示快捷键 被切换输入法的快捷键占用；更改如下图；
 ![ctrl+space快捷键](./../images/快捷键占用.jpg)
+
+# 使用vscode 调试网页 
+[利用默认浏览器去调试html](http://stackoverflow.com/questions/30039512/how-to-view-my-html-code-in-browser-with-visual-studio-code)
