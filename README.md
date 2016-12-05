@@ -29,17 +29,19 @@ nvm 安装 node.js
   + PowerShell中是通过`dir env:[name]`命令
 
 5. node 的使用
+  + $ nvm arch 用来查看nvm的默认位数 后面的指令若没有指定则arch = default
   + $ nvm list [available]  查看云端可用的node 版本列表；
   + $ nvm ls  查看本地安装的node版本列表
   + $ nvm install <version> [arch] 安装指定<version>的(32/64)node 
   + $ nvm use <version> [arch] 使用<version>版本的Node.js
   + $ nvm uninstall <version> 卸载指定版本的node  
+  > nvm use <version> 成功后，root指定的位置会出现nodejs的快捷方式；
 6. NVM使用说明：
   + https://github.com/coreybutler/nvm-windows/
 
 7. NPM的目录之后使用再配置
 
-# git的使用
+# git的使用 
 
 ## git的安装与配置
 请参阅[windows安装git和环境变量的配置](https://wuzhuti.cn/2385.html)
