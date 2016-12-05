@@ -29,10 +29,12 @@ nvm 安装 node.js
   + PowerShell中是通过`dir env:[name]`命令
 
 5. node 的使用
-  + $ nvm ls ;查看当前node 版本列表；
-  + $ nvm use 5.7.0 使用5.7.0版本的Node.js 
+  + $ nvm list [available]  查看云端可用的node 版本列表；
+  + $ nvm ls  查看本地安装的node版本列表
+  + $ nvm install <version> [arch] 安装指定<version>的(32/64)node 
+  + $ nvm use <version> [arch] 使用<version>版本的Node.js
+  + $ nvm uninstall <version> 卸载指定版本的node  
 6. NVM使用说明：
-
   + https://github.com/coreybutler/nvm-windows/
 
 7. NPM的目录之后使用再配置
