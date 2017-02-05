@@ -17,6 +17,7 @@ nvm 安装 node.js
   + `path 配置为 node 快捷方式所在的目录`
   + `arch 配置为当前操作系统的位数（32/64）`
   + `proxy 不用配置`
+  ![sdfasdfa](/images/git%E7%89%88%E6%9C%AC%E5%BA%93%E7%BB%93%E6%9E%84%E5%9B%BE.PNG)
 
 4. 配置环境变量 可以通过 window+r  : sysdm.cpl
   > window 中的PATH环境变量，当要求系统运行一个程序而没有告诉程序所在的完整路径时，系统除了在当前目录下寻找该程序之外，还
