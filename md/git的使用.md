@@ -45,6 +45,8 @@ git push origin master
 
 
 
+
+  反对发射点
 7. git 常用命令
 - $ pwd 可以看到自己当前所在的目录位置
 - $ ls -al 查看所有的目录 （包含隐藏的目录）
