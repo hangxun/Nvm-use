@@ -131,6 +131,11 @@ Windows 默认是%AppData%/npm-cache。通过配置命令，可以查看这个�
   > taobao镜像源 hhtp://npm.taobao.org/
 + 配置命令 : $ npm config set registry http://registry.npm.taobao.org/
 
++ 显示npm的安装进度
+
+> 有时间会遇到，输入npm但是没反应，实际上已经开始下载，原因在于进度隐藏掉了；
+
+npm config set loglevel=http
 
 + 利用工具进行配置：推荐使用；
   - 全局工具 NRM: npm registry manager 用于切换 npm 镜像源；
